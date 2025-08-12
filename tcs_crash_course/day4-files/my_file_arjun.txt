@@ -1,0 +1,4 @@
+this is new file 
+creating to test with the existing modes
+
+Adding new line uwing write() function
